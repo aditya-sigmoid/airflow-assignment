@@ -1,0 +1,11 @@
+City-Name,Description,Temperature,Feels Like Temperature,Min Temperature,Max Temperature,Humidity,Clouds
+Udhampur,clear sky,70.07,69.08,70.07,70.07,49,0
+Jammu,clear sky,73.22,72.36,73.22,73.22,45,0
+Mumbai,smoke,93.18,89.87,93.18,93.18,22,6
+Bengaluru,overcast clouds,73.22,71.71,73.22,73.22,31,99
+Delhi,haze,80.69,83.95,80.69,85.3,69,1
+Srinagar,clear sky,59.94,57.97,59.94,59.94,50,0
+Punjab,clear sky,77.86,76.71,77.86,77.86,29,0
+Goa,few clouds,80.98,85.1,80.98,80.98,73,20
+Patna,haze,76.93,77.56,76.93,76.93,69,0
+Kolkata,haze,84.15,84.31,84.15,84.15,45,0
